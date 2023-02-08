@@ -76,6 +76,7 @@ const Team = () => {
     <Box m="20px">
       <Header title="TEAM" subtitle="Managing the Team Members" />
       <Box
+        height=""
         m="40px 0 0 0 "
         display="flex"
         sx={{
